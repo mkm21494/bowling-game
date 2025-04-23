@@ -56,7 +56,6 @@ private:
     }
 };
 
-// ---------- MAIN FUNCTION FOR TESTING ----------
 int main() {
     BowlingGame game;
 
